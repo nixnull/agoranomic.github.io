@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <style media="screen" type="text/css">
+      /* Thanks to Matthew James Taylor for CSS inspiration */
+      body {margin:0; padding:0;} /* IE... better to do this by hand */
+      h1 {margin-top:1em; margin-right:2%;
+          margin-bottom:0; padding:0;}
+      /*div.column p {margin-left:4%; margin-right:4%;}
+      div.column ul {margin-left:4%; margin-right:4%;}
+      div.column h2 {margin-left:4%; margin-right:4%; margin-top:1.5em;}*/
+      #topimage {height:1px; float:right; margin-right:2%; overflow:visible;}
+      #topimage img {width:64px; height:64px;}
+      body { margin-top: 60px; }
+    </style>
+    
+    <link rel="icon" type="image/png" href="coat_of_arms.png"/>
+
+    <title>Agora Nomic</title>
+  </head>
+  <body>
+    {% include Header/header.html %}
+    
+    <div class='container'>
+      {{ content }}
+    </div>
+  </body>
+</html>
