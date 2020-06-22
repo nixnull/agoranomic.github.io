@@ -4,6 +4,8 @@ layout: default
 
 # Agora Nomic
 
+<div class="row" markdown="1">
+
 <div class="col-md-6" markdown="1">
 
 ## Welcome to Agora
@@ -127,5 +129,7 @@ normally be found in the agora-official archives, or
 [online](/ruleset/flr.txt).  Probably, you can join by simply sending
 a message to agora-business stating that you register, although as
 always in nomic, the rules are subject to change.
+
+</div>
 
 </div>
