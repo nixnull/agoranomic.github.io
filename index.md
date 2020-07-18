@@ -4,7 +4,10 @@ layout: default
 
 # Agora Nomic
 
-<div class=".col-md-6">
+<div class="row" markdown="1">
+
+<div class="col-md-6" markdown="1">
+
 ## Welcome to Agora
 
 Agora is a [nomic](https://en.wikipedia.org/wiki/Nomic), a game in
@@ -75,8 +78,11 @@ insult that Agorans were "a generally boring lot".
 
 * Finally, just for fun, oerjan took [Agora's
   horoscope](http://home.nvg.org/~oerjan/agora-horoscope/).
+  
+</div>
 
-<div class="col-md-6"> 
+<div class="col-md-6" markdown="1"> 
+
 ## Thinking of playing?
 As of **June 2020**, there are 20 players and 130 rules,
 but you are not expected to know all of them when you start.
@@ -123,3 +129,7 @@ normally be found in the agora-official archives, or
 [online](/ruleset/flr.txt).  Probably, you can join by simply sending
 a message to agora-business stating that you register, although as
 always in nomic, the rules are subject to change.
+
+</div>
+
+</div>
