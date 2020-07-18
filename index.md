@@ -84,7 +84,7 @@ insult that Agorans were "a generally boring lot".
 <div class="col-md-6" markdown="1"> 
 
 ## Thinking of playing?
-As of **June 2020**, there are 20 players and 130 rules,
+As of **July 2020**, there are **22 players** and **139 rules**,
 but you are not expected to know all of them when you start.
 
 Play happens across four mailing lists. Please subscribe to all of them:
