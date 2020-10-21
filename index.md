@@ -20,7 +20,7 @@ very similar ruleset (adapted for play via email) on 30 June 1993, and
 since then has become one of the world's longest-lasting nomics.
 
 Over its history of over **27 years**, Agora has seen over **8000
-proposals**, and over **2500 rules enacted**; but rules are amended
+proposals**, and over **2600 rules enacted**; but rules are amended
 frequently and repealed at much the same rate they are enacted,
 meaning that [the ruleset](/ruleset) is often fresh and interesting
 for new and experienced players alike, rather than continuously
@@ -84,7 +84,7 @@ insult that Agorans were "a generally boring lot".
 <div class="col-md-6" markdown="1"> 
 
 ## Thinking of playing?
-As of **July 2020**, there are **22 players** and **139 rules**,
+As of **October 2020**, there are **19 active players** and **142 rules**,
 but you are not expected to know all of them when you start.
 
 Play happens across four mailing lists. Please subscribe to all of them:
