@@ -9,7 +9,6 @@ layout: default
 <div class="col-md-6" markdown="1">
 
 ## Welcome to Agora
-
 Agora is a [nomic](https://en.wikipedia.org/wiki/Nomic), a game in
 which the rules can be changed as part of the gameplay itself.  The
 concept of Nomic, and an initial ruleset, was invented by [Peter
