@@ -50,32 +50,6 @@ Agora occasionally experiments with mechanics designed only to shake
 things up a bit (such as randomized rule changes, or offices whose
 only job is to try to repeal rules); and once went to war over an
 insult that Agorans were "a generally boring lot".
-
-## Other websites with historical records
-* [Zefram's archives](http://www.fysh.org/~zefram/agora/) contain old
-  rules, proposals, and mailing list archives.
-
-* The [Agoran Weekly Journal](http://zenith.homelinux.net/awj.php)
-  summarises events from 1997 to 2007, and may be updated in the
-  future.
-
-* Murphy's site also contains a [list of
-  acronyms](http://zenith.homelinux.net/agora_acronyms.php) used in
-  agora and a [list of
-  wins](http://zenith.homelinux.net/agora_winners.php).
-
-* Andre has a [list of old
-  CFJs](http://web.archive.org/web/20130115221259/http://www.win.tue.nl/~engels/stare.txt).
-
-* [omd's CFJ database](http://cfj.qoid.us) displays more recent CFJs
-  and their results.
-
-* The [Agora Notary Wiki](http://agora-notary.wikidot.com/) hosted
-  details about contracts from late 2008 to early 2010 (and became
-  obsolete when contracts were repealed).
-
-* Finally, just for fun, oerjan took [Agora's
-  horoscope](http://home.nvg.org/~oerjan/agora-horoscope/).
   
 </div>
 
