@@ -108,11 +108,15 @@ Play happens across four mailing lists. Please subscribe to all of them:
   game and things that go on there, although it cannot be used for
   game actions (posting them to agora-discussion by mistake is quite
   common!).
-
+  
+* [gio](https://agoranomic.groups.io/g/main) is the current primary
+  backup list. It is a public list that players may use to do actions
+  (especially if they're trying to be sneaky). It is mainly used if the
+  main lists are down for maintenance.
+  
 * [tue](http://listserver.tue.nl/mailman/listinfo/agora) normally
-  receives no messages. It is a backup list, usually used when there
-  are issues with the others. It is still a public list, and players
-  will ocassionally try to do actions here.
+  receives no messages. It is an older backup list, now considered
+  secondary to gio.
  
 For more informal discussion, there is also an official IRC channel,
 [##nomic on freenode.net](irc:irc.freenode.net/##nomic) ([web
