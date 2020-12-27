@@ -18,18 +18,17 @@ book *The Paradox of Self-Amendment* in 1982. Agora started with a
 very similar ruleset (adapted for play via email) on 30 June 1993, and
 since then has become one of the world's longest-lasting nomics.
 
-Over its history of over **27 years**, Agora has seen over **8000
+Over its history of over **27 years**, Agora has had about **200 players**
+(though there are usually only about 20 at a time), seen over **8000
 proposals**, and over **2600 rules enacted**; but rules are amended
-frequently and repealed at much the same rate they are enacted,
-meaning that [the ruleset](/ruleset) is often fresh and interesting
-for new and experienced players alike, rather than continuously
-accreting rules until the game becomes unplayable.  Although the game
-has been won on over 60 occasions, it can continue on after a win,
-giving everyone a chance to succeed (not that winning is easy; most
-months, nobody accomplishes it).  The course of the game is charted by
-its over **3800 [judicial
-cases](https://faculty.washington.edu/kerim/nomic/cases/)**, via which
-disputes are resolved.
+frequently and repealed at much the same rate they are enacted, meaning
+that [the ruleset](/ruleset) is often fresh and interesting for new and
+experienced players alike, rather than continuously accreting rules
+until the game becomes unplayable. Although the game has been won on
+over 60 occasions, it can continue on after a win, giving everyone a
+chance to succeed (not that winning is easy; most months, nobody
+accomplishes it).  The course of the game is charted by its over
+**3800 [judicial cases](https://faculty.washington.edu/kerim/nomic/cases/)**, via which disputes are resolved.
 
 ## Why Agora?
 Agora is a relatively serious nomic; many of its players see it as an
