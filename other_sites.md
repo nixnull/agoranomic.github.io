@@ -34,8 +34,7 @@ Much of this is very old and not maintained by current players. As such, it migh
   details about contracts from late 2008 to early 2010 (and became
   obsolete when contracts were repealed).
 
-* Finally, just for fun, oerjan took [Agora's
-  horoscope](http://home.nvg.org/~oerjan/agora-horoscope/).
+* Finally, just for fun, oerjan took [Agora's horoscope](http://home.nvg.org/~oerjan/agora-horoscope/).
   
 </div>
 

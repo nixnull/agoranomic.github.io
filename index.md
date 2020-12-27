@@ -59,7 +59,7 @@ insult that Agorans were "a generally boring lot".
 As of **December 2020**, there are **17 active players**. We're always
 looking for more!
 
-Play happens across four mailing lists. Please subscribe to all of them:
+Play happens across five mailing lists. Please subscribe to all of them:
 
 * [agora-business](http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business)
   ([public
@@ -89,7 +89,8 @@ Play happens across four mailing lists. Please subscribe to all of them:
   
 * [tue](http://listserver.tue.nl/mailman/listinfo/agora) normally
   receives no messages. It is an older backup list, now considered
-  secondary to gio.
+  secondary to gio. Still, it is public and actions *could* be taken
+  there on ocassion.
  
 For more informal discussion, there is also an official IRC channel,
 [##nomic on freenode.net](irc:irc.freenode.net/##nomic) ([web
