@@ -37,7 +37,7 @@ Much of this is very old and not maintained by current players. As such, it migh
 * Finally, just for fun, oerjan took [Agora's
   horoscope](http://home.nvg.org/~oerjan/agora-horoscope/).
   
-  </div>
+</div>
 
 <div class="col-md-6" markdown="1"> 
 
