@@ -83,8 +83,8 @@ insult that Agorans were "a generally boring lot".
 <div class="col-md-6" markdown="1"> 
 
 ## Thinking of playing?
-As of **October 2020**, there are **19 active players** and **142 rules**,
-but you are not expected to know all of them when you start.
+As of **December 2020**, there are **17 active players**. We're always
+looking for more!
 
 Play happens across four mailing lists. Please subscribe to all of them:
 
