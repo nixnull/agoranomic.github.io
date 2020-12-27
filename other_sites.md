@@ -43,15 +43,19 @@ Much of this is very old and not maintained by current players. As such, it migh
 
 ## Other Nomic Things
 
-* https://nomic.club/ - wiki of nomics
+These are not necessarily maintained by the same person that maintains
+the Agora website, and there's no guarantee they're up-to-date or
+active.
 
-* Agora Nomic (https://agoranomic.org/)
+* [Nomic.Club Wiki](https://nomic.club/)
 
-* BlogNomic (https://blognomic.com/)
+## Other Nomics
 
-* Fantasy Rules Committee (https://groups.google.com/g/frc-play)
+* [BlogNomic](https://blognomic.com/)
 
-* Infinite Nomic (https://discord.gg/uBFBfsn)
+* [Fantasy Rules Committee](https://groups.google.com/g/frc-play)
+
+* [Infinite Nomic](https://discord.gg/uBFBfsn)
 
 </div>
 
