@@ -56,10 +56,20 @@ your idea of a good time, please come join us!
 <div class="col-md-6" markdown="1"> 
 
 ## Thinking of playing?
+
 As of **December 2020**, there are **17 active players**. We're always
 looking for more!
 
-Play happens across five mailing lists. Please subscribe to all of them:
+### Subscribe to the Lists
+
+As an email-based game, play happens on mailing lists. There are
+currently 3 main lists and 2 backup lists, and players should be
+subscribed to all of them. You may want to use an email just for agora,
+or filter agora messages to their own folder. If you're unfamiliar with
+mailing lists, check out [the help pages](https://agoranomic.org/Help/Quickstart).
+
+Here are the mailing lists, please subscribe to all of them. **Do not use
+digest mode.**
 
 * [agora-business](http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business)
   ([public
@@ -91,21 +101,37 @@ Play happens across five mailing lists. Please subscribe to all of them:
   receives no messages. It is an older backup list, now considered
   secondary to gio. Still, it is public and actions *could* be taken
   there on ocassion.
- 
-For more informal discussion, there is also an official IRC channel,
-[##nomic on freenode.net](irc:irc.freenode.net/##nomic) ([web
-access](http://webchat.freenode.net/?channels=%23%23nomic)), where
-several players of Agora (and other nomics) tend to gather.
-      
-Although many players prefer to watch for a while rather than playing
-(with Agora having attracted quite a sizeable list of "Watchers", who
-sometimes join in discussion about the game despite not playing), it's
-entirely possible to jump right in and start playing.  Before joining,
-you should probably read the rules; the most recent rulesets can
-normally be found in the agora-official archives, or
-[online](/ruleset/flr.txt).  Probably, you can join by simply sending
-a message to agora-business stating that you register, although as
-always in nomic, the rules are subject to change.
+
+### Skim the Rules
+
+[The rules](https://agoranomic.org/ruleset/) are long, but most of them are not necessary to know to get
+started, and players will help you learn. Please at least skim the
+rules, and take the time to give them a more complete read when you're
+ready. If you have any questions about them, ask!
+
+### Officially Register
+
+Once you're subscribed, send a message to agora-business@agoranomic.org
+and indicate that you wish to subscribe and your prefered alias. That's
+it! You're a player now. Welcome!
+
+### Connect with Other Players
+
+Players congregate to talk about the game, and anything else they're
+interested in, in a few places outside of the mailing lists. Feel free
+to hop in, even if you're not yet a player:
+
+* [The irc channel, ##nomic on freenode.net,](irc:irc.freenode.net/##nomic)
+has been around for a long time and is officially recognized as a place
+of discussion. [Browser access here.](http://webchat.freenode.net/?channels=%23%23nomic)
+
+* [The discord server]() is newer, and does not have official status,
+but is also more active than the irc and has more channels for
+discussion.
+
+Note that the irc and discord are bridged, so messages sent to one can
+be seen in the other, allowing people to choose their prefered platform
+without missing out.
 
 </div>
 
