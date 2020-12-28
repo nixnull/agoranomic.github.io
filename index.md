@@ -63,7 +63,7 @@ looking for more! For a more detailed intro to play, see [the help pages](https:
 ### Subscribe to the Lists
 
 There are 3 main lists and 2 backup lists; please subscribe to all of
-them. **Do not use digest mode.**
+them. **Do not use the daily digest.**
 
 * [agora-business](http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business)
   ([public
