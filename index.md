@@ -60,16 +60,12 @@ your idea of a good time, please come join us!
 As of **December 2020**, there are **17 active players**. We're always
 looking for more!
 
+For a more detailed intro to play, [the help pages](https://agoranomic.org/Help/Quickstart).
+
 ### Subscribe to the Lists
 
-As an email-based game, play happens on mailing lists. There are
-currently 3 main lists and 2 backup lists, and players should be
-subscribed to all of them. You may want to use an email just for agora,
-or filter agora messages to their own folder. If you're unfamiliar with
-mailing lists, check out [the help pages](https://agoranomic.org/Help/Quickstart).
-
-Here are the mailing lists, please subscribe to all of them. **Do not use
-digest mode.**
+There are 3 main lists and 2 backup lists; please subscribe to all of
+them. **Do not use digest mode.**
 
 * [agora-business](http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business)
   ([public
@@ -102,36 +98,31 @@ digest mode.**
   secondary to gio. Still, it is public and actions *could* be taken
   there on ocassion.
 
-### Skim the Rules
+### Start Playing!
 
-[The rules](https://agoranomic.org/ruleset/) are long, but most of them are not necessary to know to get
-started, and players will help you learn. Please at least skim the
-rules, and take the time to give them a more complete read when you're
-ready. If you have any questions about them, ask!
+Once you subscribe, send a message to
+[agora-business](mailto:agora-business@agoranomic.org) indicating your
+intent to register and your prefered alias. That's it! You're a player
+now.
 
-### Officially Register
-
-Once you're subscribed, send a message to agora-business@agoranomic.org
-and indicate that you wish to subscribe and your prefered alias. That's
-it! You're a player now. Welcome!
+When you have time, read through
+[the rules](https://agoranomic.org/ruleset/). Don't be afraid to ask
+questions!
 
 ### Connect with Other Players
 
 Players congregate to talk about the game, and anything else they're
-interested in, in a few places outside of the mailing lists. Feel free
-to hop in, even if you're not yet a player:
+interested in, in a few places outside of the mailing lists. These
+servers are connected to each other, so you can choose without missing
+out:
 
 * [The irc channel, ##nomic on freenode.net,](irc:irc.freenode.net/##nomic)
 has been around for a long time and is officially recognized as a place
 of discussion. [Browser access here.](http://webchat.freenode.net/?channels=%23%23nomic)
 
-* [The discord server]() is newer, and does not have official status,
-but is also more active than the irc and has more channels for
-discussion.
-
-Note that the irc and discord are bridged, so messages sent to one can
-be seen in the other, allowing people to choose their prefered platform
-without missing out.
+* [The discord server](https://discord.gg/tz2u6m7) is newer, and does
+not have official status, but is a more common choice and has a few side
+channels.
 
 </div>
 
