@@ -41,42 +41,24 @@ of nomic. At **27 years old**, it's the longest running nomic. It has
 also seen around **200 players** come and go, with an average of 15-20
 at any given time. Some players have been playing for more than a
 decade. This long life means Agora has seen over **8000 proposals** and
-**2600 rules** enacted, amended, and/or repealed.
+**2600 rules** enacted, amended, and/or repealed. Agora considers its
+history to be valuable, and long-standing members of the community and
+people who have made significant contributions with lofty titles and
+praise, and a permanent spot on the Scroll of Agora.
 
-Agora is purely egalitarian. The rules tend to shy away from too much
-power for more experienced players (known as Gerontocracy). We reward
-players of long service and great achivement through official
-recognition, not special privileges. All players are able to participate
-from the moment they join, and all voices are respected in all
-discussions. Players come from many countries and backgrounds, and
+Agora is purely egalitarian. The rules shy away from too much power for
+experienced players (known as Gerontocracy). All players are able to
+participate from the moment they join, and all voices are respected in
+all discussions. Players come from many countries and backgrounds, and
 diversity of opinion and experience is respected and welcomed. As a
 symbol of its idealism (and a quirk of the time and place it originates
 from) Agora uses the Spivak pronoun system (e/em/eir/eirs) for all
 persons.
 
-When disagreement arises about the meaning of rules or result of an
-action, they are resolved through a system of judicial cases. Any player
-can initiate or volunteer to judge a case, and decisions are upheld or
-challenged based on how convincing the judge's arguments are. Such
-rulings supplement the rules to resolve issues fairly and keep all
-players on the same page. Notable judgments create a sort of common law
-for Agora, though they often become outdated by rule changes.
-
-Agora also takes itself relatively seriously compared to other nomics.
-Many players see it as a place to experiment with philosophy, political
-science, and group dynamics. Agora's relatively unique place as a nomic
-that both has existed continuously for decades and freely allows changes
-to even the most fundamental rules means it can be somewhat reserved
-about changes; yet large-scale changes can and do happen, often after
-considerable discussion and debate.
-
-On the other hand, Agorans tend not to be above silliness and having
-fun; some players will do things just to see what will happen, or to
-create unusual situations merely to observe the resulting chaos.
-Agora occasionally experiments with mechanics designed only to shake
-things up a bit (such as randomized rule changes, or offices whose
-only job is to try to repeal rules); and once went to war over an
-insult that Agorans were "a generally boring lot".
+History and idealism aside, Agora is a game, and we try to have fun
+together. It's also a warm and supportive community, consisting of both
+people who have been around for years and people who just joined. If
+this sounds like your idea of a good time, please come join us!
   
 </div>
 
