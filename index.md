@@ -16,16 +16,12 @@ the game, and ALL of them are subject to potential change. This makes it
 difficult to describe Agora, but it also means that gameplay stays fresh
 based on what players are interested in at the time.
 
-Some elements tend to stay the same. Changes to rules are proposed by
-any player and voted on by all players. Some players, known as Officers,
-keep track of the rules and other elements of the game. Commonly, there
-are currencies or assets to buy, sell, and trade.
+### Playing to Win?
 
-Players can win by a variety of ways, but winning is simply recorded on
-the Scroll of Agora and gameplay continues. Winning is usually tied to a
-"sub-game", an activity played within Agora. In the past this has
-included variants of Diplomacy, Go, and Mao - as well as many games of
-our own design.
+When a player wins, it's recorded in the ever-growing Scroll of Agora
+and the game continues. Winning is usually tied to a "sub-game", an
+activity played within Agora. In the past this has included variants of
+Diplomacy, Go, and Mao - as well as many games of our own design.
 
 Crafty and mischievous players may enjoy the time-honored tradition of
 scamming. Since rules change frequently, loopholes often appear. Clever
@@ -36,23 +32,24 @@ then quickly clean up the mess.
 
 ## Why Agora?
 
-At **27 years old**, Agora is the longest running nomic. It has also
-seen around **200 players** come and go, with an average of 15-20 at
+### A Historic Game
+
+At 27 years old, Agora is the longest running nomic. It has also
+seen around 200 players come and go, with an average of 15-20 at
 any given time. Some players have been playing for more than a decade.
 Agora has been around for a long time, and plans to stay.
 
-Agora is egalitarian. The rules shy away from giving power to
-experienced players; long participation and notable contributions are
-rewarded with official recognition, not special privilege. Players are
-able to participate from the moment they join, and all voices are
-respected in all discussions. As a symbol of its idealism (and a quirk
-of the time and place it originates from) Agora uses the Spivak pronoun
-system (e/em/eir/eirs) for all persons.
+Despite this age, there is no fundamental difference between new and
+experienced players. Long participation and notable achievement is
+rewarded with official recognition, not special privilege. Players can
+participate as soon as they join, experienced players will help you
+learn, and all voices are appreciated in all conversations.
 
-History and idealism aside, Agora is a game, and we try to have fun
-together. It's also a warm and supportive community, consisting of both
-people who have been around for years and people who just joined. If
-this sounds like your idea of a good time, please come join us!
+### A Community
+
+History aside, Agora is a game, and we try to have fun together. It's
+also a warm and supportive community. If this sounds like
+your idea of a good time, please come join us!
   
 </div>
 
