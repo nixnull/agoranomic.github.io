@@ -58,9 +58,7 @@ your idea of a good time, please come join us!
 ## Thinking of playing?
 
 As of **December 2020**, there are **17 active players**. We're always
-looking for more!
-
-For a more detailed intro to play, [the help pages](https://agoranomic.org/Help/Quickstart).
+looking for more! For a more detailed intro to play, see [the help pages](https://agoranomic.org/Help/Quickstart).
 
 ### Subscribe to the Lists
 
@@ -103,18 +101,15 @@ them. **Do not use digest mode.**
 Once you subscribe, send a message to
 [agora-business](mailto:agora-business@agoranomic.org) indicating your
 intent to register and your prefered alias. That's it! You're a player
-now.
-
-When you have time, read through
+now. When you have time, read through
 [the rules](https://agoranomic.org/ruleset/). Don't be afraid to ask
 questions!
 
 ### Connect with Other Players
 
-Players congregate to talk about the game, and anything else they're
-interested in, in a few places outside of the mailing lists. These
-servers are connected to each other, so you can choose without missing
-out:
+Outside official gameplay, players connect in the following places.
+These servers are connected to each other, so you can choose without
+missing out:
 
 * [The irc channel, ##nomic on freenode.net,](irc:irc.freenode.net/##nomic)
 has been around for a long time and is officially recognized as a place
