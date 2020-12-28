@@ -9,39 +9,66 @@ layout: default
 <div class="col-md-6" markdown="1">
 
 ## Welcome to Agora
-Agora is a [nomic](https://en.wikipedia.org/wiki/Nomic), a game in
-which the rules can be changed as part of the gameplay itself.  The
-concept of Nomic, and an initial ruleset, was invented by [Peter
-Suber](http://www.earlham.edu/~peters/hometoc.htm) and published in
-[an appendix](http://www.earlham.edu/~peters/writing/nomic.htm) to his
-book *The Paradox of Self-Amendment* in 1982. Agora started with a
-very similar ruleset (adapted for play via email) on 30 June 1993, and
-since then has become one of the world's longest-lasting nomics.
 
-Over its history of over **27 years**, Agora has had about **200 players**
-(though there are usually only about 20 at a time), seen over **8000
-proposals**, and over **2600 rules enacted**; but rules are amended
-frequently and repealed at much the same rate they are enacted, meaning
-that [the ruleset](/ruleset) is often fresh and interesting for new and
-experienced players alike, rather than continuously accreting rules
-until the game becomes unplayable. Although the game has been won on
-over 60 occasions, it can continue on after a win, giving everyone a
-chance to succeed (not that winning is easy; most months, nobody
-accomplishes it).  The course of the game is charted by its over
-**3800 [judicial cases](https://faculty.washington.edu/kerim/nomic/cases/)**, via which disputes are resolved.
+Agora is a nomic - a game of rule change, debate, ever-changing gameplay
+and scams - played by email. The rules of the game are part of the game,
+and ALL of them are subject to potential change. This makes it difficult
+to describe Agora, but it also means that gameplay changes frequently
+based on what players are interested in at the time.
+
+Some elements tend to stay the same. Changes to rules are proposed by
+any player and voted on by all players. Some players, known as Officers,
+keep track of the rules and other elements of the game. Commonly, there
+are currencies or assets to buy, sell, and trade.
+
+Players can win by a variety of ways, but winning is simply recorded on
+the Scroll of Agora and gameplay continues. Winning is usually tied to a
+"sub-game", an activity played within Agora. In the past this has
+included variants of Diplomacy, Go, and Mao - as well as many games of
+our own design.
+
+Crafty and mischievous players may enjoy the time-honored tradition of
+scamming. Since rules change frequently, loopholes often appear. Clever
+scammers use these loopholes to secure wins for themselves. There is,
+however, an art to this: it's considered impolite to do so in a way that
+prevents others from having fun. The most elegant scams secure a win and
+then quickly clean up the mess.
 
 ## Why Agora?
-Agora is a relatively serious nomic; many of its players see it as an
-experiment in philosophy, political science, and group dynamics,
-rather than just a game; sometimes it acts more like a country.  It
-tends to be relatively conservative as nomics go, in that major rules
-changes often take a while to happen and are commonly debated in
-advance.  Unlike some other nomics, much of Agora's gameplay is
-concerned with the proposals system and the rules themselves, with
-many wins having been via exploiting loopholes in even long-standing
-rules, just as other players prefer to win in the "intended" fashion.
-However, it is not uncommon for substantial subgames to be proposed,
-played for a while, and then repealed when players bore with them.
+
+While there are other nomics, Agora has a special place in the history
+of nomic. At **27 years old**, it's the longest running nomic. It has
+also seen around **200 players** come and go, with an average of 15-20
+at any given time. Some players have been playing for more than a
+decade. This long life means Agora has seen over **8000 proposals** and
+**2600 rules** enacted, amended, and/or repealed.
+
+Agora is purely egalitarian. The rules tend to shy away from too much
+power for more experienced players (known as Gerontocracy). We reward
+players of long service and great achivement through official
+recognition, not special privileges. All players are able to participate
+from the moment they join, and all voices are respected in all
+discussions. Players come from many countries and backgrounds, and
+diversity of opinion and experience is respected and welcomed. As a
+symbol of its idealism (and a quirk of the time and place it originates
+from) Agora uses the Spivak pronoun system (e/em/eir/eirs) for all
+persons.
+
+When disagreement arises about the meaning of rules or result of an
+action, they are resolved through a system of judicial cases. Any player
+can initiate or volunteer to judge a case, and decisions are upheld or
+challenged based on how convincing the judge's arguments are. Such
+rulings supplement the rules to resolve issues fairly and keep all
+players on the same page. Notable judgments create a sort of common law
+for Agora, though they often become outdated by rule changes.
+
+Agora also takes itself relatively seriously compared to other nomics.
+Many players see it as a place to experiment with philosophy, political
+science, and group dynamics. Agora's relatively unique place as a nomic
+that both has existed continuously for decades and freely allows changes
+to even the most fundamental rules means it can be somewhat reserved
+about changes; yet large-scale changes can and do happen, often after
+considerable discussion and debate.
 
 On the other hand, Agorans tend not to be above silliness and having
 fun; some players will do things just to see what will happen, or to

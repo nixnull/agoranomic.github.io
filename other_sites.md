@@ -34,19 +34,12 @@ Much of this is very old and not maintained by current players. As such, it migh
   details about contracts from late 2008 to early 2010 (and became
   obsolete when contracts were repealed).
 
-* Finally, just for fun, oerjan took [Agora's horoscope](http://home.nvg.org/~oerjan/agora-horoscope/).
+* Finally, just for fun, oerjan took [Agora's
+  horoscope](http://home.nvg.org/~oerjan/agora-horoscope/).
   
 </div>
 
 <div class="col-md-6" markdown="1"> 
-
-## Other Nomic Things
-
-These are not necessarily maintained by the same person that maintains
-the Agora website, and there's no guarantee they're up-to-date or
-active.
-
-* [Nomic.Club Wiki](https://nomic.club/)
 
 ## Other Nomics
 
@@ -55,6 +48,17 @@ active.
 * [Fantasy Rules Committee](https://groups.google.com/g/frc-play)
 
 * [Infinite Nomic](https://discord.gg/uBFBfsn)
+
+## Nomic-Adjacent Things
+
+* [Nomic.Club Wiki](https://nomic.club/) - a wiki of nomics current and
+historical
+
+* [Peter Suber's Website](http://www.earlham.edu/~peters/hometoc.htm) -
+the philosopher who created nomic.
+
+* [Suber's Initial Ruleset](http://www.earlham.edu/~peters/writing/nomic.htm) - 
+the first nomic ruleset, from which most nomics derive their rules in part or whole.
 
 </div>
 
