@@ -10,11 +10,11 @@ layout: default
 
 ## Welcome to Agora
 
-Agora is a nomic - a game of rule change, debate, ever-changing gameplay
-and scams - played by email. The rules of the game are part of the game,
-and ALL of them are subject to potential change. This makes it difficult
-to describe Agora, but it also means that gameplay stays fresh based on
-what players are interested in at the time.
+Agora is a nomic - a game of rule change, debate, ever-changing
+gameplay, and scams - played by email. The rules of the game are part of
+the game, and ALL of them are subject to potential change. This makes it
+difficult to describe Agora, but it also means that gameplay stays fresh
+based on what players are interested in at the time.
 
 Some elements tend to stay the same. Changes to rules are proposed by
 any player and voted on by all players. Some players, known as Officers,
@@ -36,20 +36,18 @@ then quickly clean up the mess.
 
 ## Why Agora?
 
-While there are other nomics, Agora has a special place in the history
-of nomic. At **27 years old**, it's the longest running nomic. It has
-also seen around **200 players** come and go, with an average of 15-20
-at any given time. Some players have been playing for more than a
-decade. This long life means Agora has seen over **8000 proposals** and
-**2600 rules** enacted, amended, and/or repealed.
+At **27 years old**, Agora is the longest running nomic. It has also
+seen around **200 players** come and go, with an average of 15-20 at
+any given time. Some players have been playing for more than a decade.
+Agora has been around for a long time, and plans to stay.
 
-Agora is purely egalitarian. The rules shy away from too much power for
-experienced players (known as Gerontocracy); long participation and
-notable contributions are rewarded with official recognition, not
-special privilege. Players are able to participate from the moment they
-join, and all voices are respected in all discussions. As a symbol of
-its idealism (and a quirk of the time and place it originates from)
-Agora uses the Spivak pronoun system (e/em/eir/eirs) for all persons.
+Agora is egalitarian. The rules shy away from giving power to
+experienced players; long participation and notable contributions are
+rewarded with official recognition, not special privilege. Players are
+able to participate from the moment they join, and all voices are
+respected in all discussions. As a symbol of its idealism (and a quirk
+of the time and place it originates from) Agora uses the Spivak pronoun
+system (e/em/eir/eirs) for all persons.
 
 History and idealism aside, Agora is a game, and we try to have fun
 together. It's also a warm and supportive community, consisting of both
