@@ -54,7 +54,7 @@ Much of this is very old and not maintained by current players. As such, it migh
 * [Nomic.Club Wiki](https://nomic.club/) - a wiki of nomics current and
 historical
 
-* [Peter Suber's Website](http://www.earlham.edu/~peters/hometoc.htm) -
+* [Peter Suber's Website](https://cyber.harvard.edu/~psuber/wiki/Peter_Suber) -
 the philosopher who created nomic.
 
 * [Suber's Initial Ruleset](http://www.earlham.edu/~peters/writing/nomic.htm) - 
