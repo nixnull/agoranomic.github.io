@@ -66,35 +66,22 @@ There are 3 main lists and 2 backup lists; please subscribe to all of
 them. **Do not use the daily digest.**
 
 * [agora-business](http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business)
-  ([public
-  archives](http://www.mail-archive.com/agora-business@agoranomic.org/info.html))
-  is the main forum used for the vast majority of game actions, such
-  as voting on proposals and new players registering;
+  ([public archives](http://www.mail-archive.com/agora-business@agoranomic.org/info.html))
+  is the main place to take game actions.
 
 * [agora-official](http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-official)
-  ([public
-  archives](http://www.mail-archive.com/agora-official@agoranomic.org/info.html))
-  is used for official reports mandated by the rules, like proposal
-  distributions and reports of the rules and list of players, and is a
-  good place to check on the current state of the game;
+  ([public archives](http://www.mail-archive.com/agora-official@agoranomic.org/info.html))
+  is where important game information is published.
 
 * [agora-discussion](http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-discussion)
-  ([public
-  archives](http://www.mail-archive.com/agora-discussion@agoranomic.org/info.html))
-  is the officially supported mailing list for discussion about the
-  game and things that go on there, although it cannot be used for
-  game actions (posting them to agora-discussion by mistake is quite
-  common!).
+  ([public archives](http://www.mail-archive.com/agora-discussion@agoranomic.org/info.html))
+  is where players discuss the game and respond to game actions.
   
-* [gio](https://agoranomic.groups.io/g/main) is the current primary
-  backup list. It is a public list that players may use to do actions
-  (especially if they're trying to be sneaky). It is mainly used if the
-  main lists are down for maintenance.
+* [gio](https://agoranomic.groups.io/g/main) is the primary backup list.
+  Actions are taken here when the main lists are down, or players are trying to be sneaky.
   
-* [tue](http://listserver.tue.nl/mailman/listinfo/agora) normally
-  receives no messages. It is an older backup list, now considered
-  secondary to gio. Still, it is public and actions *could* be taken
-  there on ocassion.
+* [tue](http://listserver.tue.nl/mailman/listinfo/agora) is an older backup list.
+  Generally unused, but actions can still be taken here.
 
 ### Start Playing!
 
