@@ -9,128 +9,102 @@ layout: default
 <div class="col-md-6" markdown="1">
 
 ## Welcome to Agora
-Agora is a [nomic](https://en.wikipedia.org/wiki/Nomic), a game in
-which the rules can be changed as part of the gameplay itself.  The
-concept of Nomic, and an initial ruleset, was invented by [Peter
-Suber](http://www.earlham.edu/~peters/hometoc.htm) and published in
-[an appendix](http://www.earlham.edu/~peters/writing/nomic.htm) to his
-book *The Paradox of Self-Amendment* in 1982. Agora started with a
-very similar ruleset (adapted for play via email) on 30 June 1993, and
-since then has become one of the world's longest-lasting nomics.
 
-Over its history of over **27 years**, Agora has had about **200 players**
-(though there are usually only about 20 at a time), seen over **8000
-proposals**, and over **2600 rules enacted**; but rules are amended
-frequently and repealed at much the same rate they are enacted, meaning
-that [the ruleset](/ruleset) is often fresh and interesting for new and
-experienced players alike, rather than continuously accreting rules
-until the game becomes unplayable. Although the game has been won on
-over 60 occasions, it can continue on after a win, giving everyone a
-chance to succeed (not that winning is easy; most months, nobody
-accomplishes it).  The course of the game is charted by its over
-**3800 [judicial cases](https://faculty.washington.edu/kerim/nomic/cases/)**, via which disputes are resolved.
+Agora is a nomic - a game of rule change, debate, ever-changing
+gameplay, and scams - played by email. The rules of the game are part of
+the game, and ALL of them are subject to potential change. This makes it
+difficult to describe Agora, but it also means that gameplay stays fresh
+based on what players are interested in at the time.
+
+### Playing to Win?
+
+When a player wins, it's recorded in the ever-growing Scroll of Agora
+and the game continues. Winning is usually tied to a "sub-game", an
+activity played within Agora. In the past this has included variants of
+Diplomacy, Go, and Mao - as well as many games of our own design.
+
+Crafty and mischievous players may enjoy the time-honored tradition of
+scamming. Since rules change frequently, loopholes often appear. Clever
+scammers use these loopholes to secure wins for themselves. There is,
+however, an art to this: it's considered impolite to do so in a way that
+prevents others from having fun. The most elegant scams secure a win and
+then quickly clean up the mess.
 
 ## Why Agora?
-Agora is a relatively serious nomic; many of its players see it as an
-experiment in philosophy, political science, and group dynamics,
-rather than just a game; sometimes it acts more like a country.  It
-tends to be relatively conservative as nomics go, in that major rules
-changes often take a while to happen and are commonly debated in
-advance.  Unlike some other nomics, much of Agora's gameplay is
-concerned with the proposals system and the rules themselves, with
-many wins having been via exploiting loopholes in even long-standing
-rules, just as other players prefer to win in the "intended" fashion.
-However, it is not uncommon for substantial subgames to be proposed,
-played for a while, and then repealed when players bore with them.
 
-On the other hand, Agorans tend not to be above silliness and having
-fun; some players will do things just to see what will happen, or to
-create unusual situations merely to observe the resulting chaos.
-Agora occasionally experiments with mechanics designed only to shake
-things up a bit (such as randomized rule changes, or offices whose
-only job is to try to repeal rules); and once went to war over an
-insult that Agorans were "a generally boring lot".
+### A Historic Game
 
-## Other websites with historical records
-* [Zefram's archives](http://www.fysh.org/~zefram/agora/) contain old
-  rules, proposals, and mailing list archives.
+At 27 years old, Agora is the longest running nomic. It has also
+seen around 200 players come and go, with an average of 15-20 at
+any given time. Some players have been playing for more than a decade.
+Agora has been around for a long time, and plans to stay.
 
-* The [Agoran Weekly Journal](http://zenith.homelinux.net/awj.php)
-  summarises events from 1997 to 2007, and may be updated in the
-  future.
+Despite this age, there is no fundamental difference between new and
+experienced players. Long participation and notable achievement is
+rewarded with official recognition, not special privilege. Players can
+participate as soon as they join, experienced players will help you
+learn, and all voices are appreciated in all conversations.
 
-* Murphy's site also contains a [list of
-  acronyms](http://zenith.homelinux.net/agora_acronyms.php) used in
-  agora and a [list of
-  wins](http://zenith.homelinux.net/agora_winners.php).
+### A Community
 
-* Andre has a [list of old
-  CFJs](http://web.archive.org/web/20130115221259/http://www.win.tue.nl/~engels/stare.txt).
-
-* [omd's CFJ database](http://cfj.qoid.us) displays more recent CFJs
-  and their results.
-
-* The [Agora Notary Wiki](http://agora-notary.wikidot.com/) hosted
-  details about contracts from late 2008 to early 2010 (and became
-  obsolete when contracts were repealed).
-
-* Finally, just for fun, oerjan took [Agora's
-  horoscope](http://home.nvg.org/~oerjan/agora-horoscope/).
+History aside, Agora is a game, and we try to have fun together. It's
+also a warm and supportive community. If this sounds like
+your idea of a good time, please come join us!
   
 </div>
 
 <div class="col-md-6" markdown="1"> 
 
 ## Thinking of playing?
-As of **December 2020**, there are **17 active players**. We're always
-looking for more!
 
-Play happens across four mailing lists. Please subscribe to all of them:
+As of **December 2020**, there are **17 active players**. We're always
+looking for more! For a more detailed intro to play, see [the help pages](https://agoranomic.org/Help/Quickstart).
+
+### Subscribe to the Lists
+
+There are 3 main lists and 2 backup lists; please subscribe to all of
+them. **Do not use the daily digest.**
 
 * [agora-business](http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business)
-  ([public
-  archives](http://www.mail-archive.com/agora-business@agoranomic.org/info.html))
-  is the main forum used for the vast majority of game actions, such
-  as voting on proposals and new players registering;
+  ([public archives](http://www.mail-archive.com/agora-business@agoranomic.org/info.html))
+  is the main place to take game actions.
 
 * [agora-official](http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-official)
-  ([public
-  archives](http://www.mail-archive.com/agora-official@agoranomic.org/info.html))
-  is used for official reports mandated by the rules, like proposal
-  distributions and reports of the rules and list of players, and is a
-  good place to check on the current state of the game;
+  ([public archives](http://www.mail-archive.com/agora-official@agoranomic.org/info.html))
+  is where important game information is published.
 
 * [agora-discussion](http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-discussion)
-  ([public
-  archives](http://www.mail-archive.com/agora-discussion@agoranomic.org/info.html))
-  is the officially supported mailing list for discussion about the
-  game and things that go on there, although it cannot be used for
-  game actions (posting them to agora-discussion by mistake is quite
-  common!).
+  ([public archives](http://www.mail-archive.com/agora-discussion@agoranomic.org/info.html))
+  is where players discuss the game and respond to game actions.
   
-* [gio](https://agoranomic.groups.io/g/main) is the current primary
-  backup list. It is a public list that players may use to do actions
-  (especially if they're trying to be sneaky). It is mainly used if the
-  main lists are down for maintenance.
+* [gio](https://agoranomic.groups.io/g/main) is the primary backup list.
+  Actions are taken here when the main lists are down, or players are trying to be sneaky.
   
-* [tue](http://listserver.tue.nl/mailman/listinfo/agora) normally
-  receives no messages. It is an older backup list, now considered
-  secondary to gio.
- 
-For more informal discussion, there is also an official IRC channel,
-[##nomic on freenode.net](irc:irc.freenode.net/##nomic) ([web
-access](http://webchat.freenode.net/?channels=%23%23nomic)), where
-several players of Agora (and other nomics) tend to gather.
-      
-Although many players prefer to watch for a while rather than playing
-(with Agora having attracted quite a sizeable list of "Watchers", who
-sometimes join in discussion about the game despite not playing), it's
-entirely possible to jump right in and start playing.  Before joining,
-you should probably read the rules; the most recent rulesets can
-normally be found in the agora-official archives, or
-[online](/ruleset/flr.txt).  Probably, you can join by simply sending
-a message to agora-business stating that you register, although as
-always in nomic, the rules are subject to change.
+* [tue](http://listserver.tue.nl/mailman/listinfo/agora) is an older backup list.
+  Generally unused, but actions can still be taken here.
+
+### Start Playing!
+
+Once you subscribe, send a message to
+[agora-business](mailto:agora-business@agoranomic.org) indicating your
+intent to register and your prefered alias. That's it! You're a player
+now. When you have time, read through
+[the rules](https://agoranomic.org/ruleset/). Don't be afraid to ask
+questions!
+
+### Connect with Other Players
+
+Outside official gameplay, players connect in the following places.
+These servers are connected to each other, so you can choose without
+missing out:
+
+* [The irc channel, ##nomic on freenode.net,](irc:irc.freenode.net/##nomic)
+has been around for a long time and is officially recognized as a place
+of discussion. [Browser access here.](http://webchat.freenode.net/?channels=%23%23nomic)
+
+* [The discord server](https://discord.gg/tz2u6m7) is newer, and does
+not have official status, but is a more common choice and has a few side
+channels.
 
 </div>
 
