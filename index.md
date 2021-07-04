@@ -98,13 +98,11 @@ Outside official gameplay, players connect in the following places.
 These servers are connected to each other, so you can choose without
 missing out:
 
-* [The irc channel, ##nomic on freenode.net,](irc:irc.freenode.net/##nomic)
-has been around for a long time and is officially recognized as a place
-of discussion. [Browser access here.](http://webchat.freenode.net/?channels=%23%23nomic)
+* [The discord server](https://discord.gg/tz2u6m7) is officially recognized
+as a place of discussion and has some side channels.
 
-* [The discord server](https://discord.gg/tz2u6m7) is newer, and does
-not have official status, but is a more common choice and has a few side
-channels.
+* [The irc channel, ##nomic on libera.chat,](irc:irc.libera.chat/##nomic)
+provides a more traditional option. [Browser access here.](https://web.libera.chat/##nomic)
 
 </div>
 
