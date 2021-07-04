@@ -34,7 +34,7 @@ then quickly clean up the mess.
 
 ### A Historic Game
 
-At 27 years old, Agora is the longest running nomic. It has also
+At 28 years old, Agora is the longest running nomic. It has also
 seen around 200 players come and go, with an average of 15-20 at
 any given time. Some players have been playing for more than a decade.
 Agora has been around for a long time, and plans to stay.
@@ -57,7 +57,7 @@ your idea of a good time, please come join us!
 
 ## Thinking of playing?
 
-As of **December 2020**, there are **17 active players**. We're always
+As of **July 2021**, there are **23 active players**. We're always
 looking for more! For a more detailed intro to play, see [the help pages](https://agoranomic.org/Help/Quickstart).
 
 ### Subscribe to the Lists
