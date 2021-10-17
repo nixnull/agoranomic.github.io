@@ -57,7 +57,7 @@ your idea of a good time, please come join us!
 
 ## Thinking of playing?
 
-As of **July 2021**, there are **23 active players**. We're always
+As of **October 2021**, there are **23 active players**. We're always
 looking for more! For a more detailed intro to play, see [the help pages](https://agoranomic.org/Help/Quickstart).
 
 ### Subscribe to the Lists
