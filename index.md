@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>Agora Nomic</h1>
+<h1 text-align:"center">Agora Nomic</h1>
 
 <div class="row" markdown="1">
 
