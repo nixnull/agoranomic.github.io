@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <title>Agora Dashboard</title>
-<link rel="icon" type="image/png" href="/coat_of_arms.png"/>
+<link rel="icon" type="image/png" href="coat_of_arms.png"/>
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 <body>
 
     <div class="nvbr">
@@ -17,8 +18,10 @@
         <a href="#Welcome">Welcome</a>
         <a href="#Recent">Recent</a>
     </div>
+    <img class="coat-of-arms" src="coat_of_arms.png" width=10%  style="z-index:9999; position:fixed; right:0%" align="right">
     <div class="nvpad"></div>
-    <div id="Welcome" class="column">
+    <h1>Agora Nomic</h1>
+    <div id="Welcome" class="column two-fifth">
     <div class="col-content" style="padding-left:3%; padding-right:3%">
     <h2 id="welcome-to-agora">Welcome to Agora!</h2>
     <p>Agora is a nomic - a game of rule change, debate, ever-changing
@@ -40,8 +43,11 @@ scammers use these loopholes to secure wins for themselves. There is,
 however, an art to this: it’s considered impolite to do so in a way that
 prevents others from having fun. The most elegant scams secure a win and
 then quickly clean up the mess.</p>
-
-    <h2 id="why-agora">Why Agora?</h2>
+    </div>
+    </div>
+    <div id="Why Agora" class="column two-fifth">
+    <div class="col-content" style="padding-left:3%; padding-right:3%">
+<!--     <h2 id="why-agora">Why Agora?</h2> -->
 
     <h3 id="a-historic-game">A Historic Game</h3>
 
@@ -64,56 +70,13 @@ your idea of a good time, please come join us!</p>
 
     </div>
     </div>
-
-    <div id="Recent" class="column">
-    <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
-    <style>
-        .frame-div
-        {
-            width    : 100%;
-            height   : 154px;
-            overflow : hidden;
-            position : relative;
-        }
-
-        .frame-div iframe
-        {
-            position : absolute;
-            top      : -150px;
-            left     : -90px;
-            width    : 1280px;
-            height   : 1200px;
-        }
-        
-        #iframe /*{
-            -ms-zoom: 0.75;
-            -moz-transform: scale(0.75);
-            -moz-transform-origin: 0 0;
-            -o-transform: scale(0.75);
-            -o-transform-origin: 0 0;
-            -webkit-transform: scale(0.75);
-            -webkit-transform-origin: 0 0;
-       */ }
-       
-       #a {
-       target="_blank"
-       }
-    </style>
-    <a href="https://www.mail-archive.com/agora-business@agoranomic.org/maillist.html" target="posts">Business</a>
-    
-    <a href="https://www.mail-archive.com/agora-official@agoranomic.org/maillist.html" target="posts">Official</a>
-        <h3>Recent Announcements and Reports</h3>
-        <div class="frame-div">
-            <iframe name="posts" src="https://www.mail-archive.com/agora-official@agoranomic.org/maillist.html"></iframe>
-        </div>
-        <h3>Recent Actions</h3>
-        <div class="frame-div">
-            <iframe src="https://www.mail-archive.com/agora-business@agoranomic.org/maillist.html"></iframe>
-        </div>
-        <h3>Recent Discussion</h3>
-        <div class="frame-div">
-            <iframe src="https://www.mail-archive.com/agora-discussion@agoranomic.org/maillist.html"></iframe>
-        </div>
+    <div id="Chats" class="column one-fifth">
+    <h3>Chat With Us</h3>
+    <p style="color:#E52B50">All three are connected so just choose your favorite!</p>
+    <a href="https://discord.gg/tz2u6m7"><button position="relative" class="button">Discord</button></a>
+    <a href="https://matrix.to/#/%23agoranomiccommunity%3Amozilla.org?via=mozilla.org&via=matrix.org"><button position="relative" class="button">Matrix</button></a>
+    <a href="irc:irc.libera.chat/##nomic"><button position="relative" class="button">Irc</button></a>
+    <a href="https://web.libera.chat/##nomic"><button position="relative" class="button">Irc<br \>(Web Access)</button></a>
     </div>
 </body>
 </html>

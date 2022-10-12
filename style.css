@@ -11,10 +11,15 @@ body {
   width: 49%;
   height: auto;
   align-content: center;
+  text-align: center;
 }
 
-.column p {
-    text-align: center;
+.one-fifth {
+  width: 19%;
+}
+
+.two-fifth {
+  width: 39%;
 }
 
 .nvbr {
@@ -22,7 +27,7 @@ body {
     width: 100%;
     background-color: #333;
     overflow: hidden;
-    z-index:9999;
+    z-index:998;
 }
 
 .nvpad {
@@ -67,7 +72,7 @@ body {
   .mnbr {
     visibility: visible;
   }
-  .column {
+  .column, .one-fifth, .two-fifth {
     width: 100%;
   }
 }
@@ -94,6 +99,13 @@ body {
   color: white;
 }
 
+h1 {
+    color: #E52B50;
+    text-align: center;
+    margin: 0%;
+    margin-bottom: 1em;
+}
+
 h2 {
     color: #E52B50;
     text-align: center;
@@ -104,13 +116,31 @@ h3 {
     text-align: center;
 }
 
-h1 {
-    color: #84849C;
-    text-align: center;
-}
-
 embed {
     width: 35em;
     height: 73vh;
     align-content: center;
 }
+
+/* Buttons for discord and matrix and irc */
+
+.button {
+  border-color: #E52B50;
+  border-radius: 10px;
+  background-color: #E52B50;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width:50%;
+}
+
+.button:hover {
+  background-color: #E52B50;
+  color: white;
+}
+  
