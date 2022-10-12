@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<title>Law | Agora Dashboard</title>
+<link rel="icon" type="image/png" href="/coat_of_arms.png"/>
+<body>
+
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+<style>
+.column {
+  width: 33%;
+}
+.embed {
+  width: 33%;
+}
+</style>
+
+<div class="wrapper">
+    <div class="nvbr">
+        <a href="index.html">Agora Dashboard</a>
+        <a href="economy.html">Economy</a>
+        <a href="judgment.html">Judgment</a>
+        <a class="active" href="law.html">Law</a>
+        <a href="registrar_and_adop.html">Registrar & ADoP</a>
+        <a href="histories.html">Histories</a>
+        <a href="calendar.html">Calendar</a>
+    </div>
+    <div class="mnbr">
+        <a href="#SLR">Short Logical Ruleset</a>
+        <a href="#Assessments">Latest Assessments</a>
+    </div>
+    <div class="nvpad"></div>
+    
+    <div id="SLR" class="column">
+        <h2 style="text-align:center">Short Logical Ruleset</h2>
+        <p>The current ruleset, with rules grouped by what they do.</p>
+        <center><embed type="text/html" src="https://agoranomic.org/ruleset/slr.txt"></center>
+    </div>
+    <div id="Assessments" class="column">
+        <h2 style="text-align:center">Latest Assessments</h2>
+        <p>The latest changes to the rules.</p>
+        <center><embed type="text/html" src="https://agoranomic.org/assessor/latest.txt"></center>
+    </div>
+    <div id="REF" class="column">
+        <h2 style="text-align:center">Referee's Report</h2>
+        <p>List of blots (a type of punishment).</p>
+        <center><embed type="text/html" src="https://agoranomic.org/Referee/latest.txt"></center>
+    </div>
+</div>
+
+</body>
+</html>
