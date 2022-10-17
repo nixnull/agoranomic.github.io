@@ -35,9 +35,18 @@ body {
 }
 
 /* Add a color to the active/current link */
-.nvbr a.active {
+.home .home, .glossary .glossary, .play .play, .calendar .calendar {
   background-color: #E52B50;
   color: white;
+}
+
+.coat-of-arms {
+  width:10%;
+  max-width:128px;
+  z-index:9999;
+  position:absolute;
+  right:0%;
+  top:0%;
 }
 
 h1 {
