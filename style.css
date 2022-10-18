@@ -121,6 +121,8 @@ embed {
   }
   .button {
     width: 45%;
+    height: 45%;
+    font-size: 100%;
   }
   .content {
     width: 100%;
