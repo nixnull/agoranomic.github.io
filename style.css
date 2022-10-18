@@ -6,6 +6,22 @@ body {
     font-family: Verdana, sans-serif;
 }
 
+.mobile, .dropdown-content {
+  display: none;
+  font-size: 17px;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
 .nvbr {
     width: 100%;
     position: fixed;
@@ -19,7 +35,7 @@ body {
 }
 
 /* Style the links inside the navigation bar */
-.nvbr a {
+.nvbr a, .nvbar option {
   float: left;
   color: #f2f2f2;
   text-align: center;
@@ -105,7 +121,6 @@ embed {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 14px;
   margin: 4px 2px;
   cursor: pointer;
   width: 100%;
@@ -121,12 +136,29 @@ embed {
   }
   .button {
     width: 45%;
-    height: 45%;
-    font-size: 100%;
+    font-size: 20px;
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
   }
   .content {
     width: 100%;
   }
+  .mobile {
+    display: inline-block;
+  }
+  .desktop {
+    display: none;
+  }
+  .nvbr a, .nvbar option {
+    float: center;
+    width: 100%;
+    color: #f2f2f2;
+    text-align: center;
+/*     padding: 14px 16px; */
+    text-decoration: none;
+    font-size: 17px;
+}
 }
 
 .button:hover {
