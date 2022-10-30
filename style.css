@@ -8,11 +8,10 @@ body {
 
 .mobile, .dropdown-content {
   display: none;
-  font-size: 3vh;
 }
 
 .dropdown .dropbtn {
-  font-size: 3vh;  
+  font-size: 3vh;
   border: none;
   outline: none;
   color: white;
@@ -140,7 +139,7 @@ embed {
   }
   .button {
     width: 45%;
-    font-size: 20px;
+    font-size: 4vh;
   }
   .dropdown:hover .dropdown-content {
     display: block;
@@ -159,9 +158,8 @@ embed {
     width: 100%;
     color: #f2f2f2;
     text-align: center;
-/*     padding: 14px 16px; */
     text-decoration: none;
-    font-size: 3vh;
+    font-size: 6vh;
   }
   .nvpad {
     padding: 6vh;
