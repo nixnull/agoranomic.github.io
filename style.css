@@ -11,7 +11,7 @@ body {
 }
 
 .dropdown .dropbtn {
-  font-size: 3vh;
+  font-size: 20px;
   border: none;
   outline: none;
   color: white;
@@ -139,7 +139,7 @@ embed {
   }
   .button {
     width: 45%;
-    font-size: 4vh;
+    font-size: 20px;
   }
   .dropdown:hover .dropdown-content {
     display: block;
@@ -159,10 +159,10 @@ embed {
     color: #f2f2f2;
     text-align: center;
     text-decoration: none;
-    font-size: 6vh;
+    font-size: 20px;
   }
   .nvpad {
-    padding: 6vh;
+    padding-top: 6vh;
   }
 }
 
