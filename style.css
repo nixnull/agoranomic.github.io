@@ -57,8 +57,12 @@ body {
 }
 
 .coat-of-arms {
-  width:10%;
+  height:5vw;
+  width:5vw;
+  min-width:6vh;
+  min-height:6vh;
   max-width:128px;
+  max-height:128px;
   z-index:9999;
   position:absolute;
   right:0%;
@@ -157,8 +161,11 @@ embed {
     text-align: center;
 /*     padding: 14px 16px; */
     text-decoration: none;
-    font-size: 17px;
-}
+    font-size: 3vh;
+  }
+  .nvpad {
+    padding: 6vh;
+  }
 }
 
 .button:hover {
