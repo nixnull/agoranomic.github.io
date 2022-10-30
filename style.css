@@ -18,6 +18,7 @@ body {
   color: white;
   padding: 14px 16px;
   margin: 0;
+  background-color: inherit;
 }
 
 .nvbr {
@@ -52,7 +53,6 @@ body {
 .home .home, .glossary .glossary, .play .play, .calendar .calendar {
   background-color: #E52B50;
   color: white;
-  font-size: 17px;
 }
 
 .coat-of-arms {
@@ -171,6 +171,7 @@ embed {
     text-align: center;
     text-decoration: none;
     font-size: 20px;
+    padding: 14px 0px;
   }
   .nvpad {
     padding-top: 6vh;
