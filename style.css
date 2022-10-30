@@ -50,7 +50,7 @@ body {
 }
 
 /* Add a color to the active/current link */
-.home .home, .glossary .glossary, .play .play, .calendar .calendar {
+.home .home, .glossary .glossary, .play .play, .calendar .calendar, .rules .rules {
   background-color: #E52B50;
   color: white;
 }
@@ -177,11 +177,11 @@ embed {
     padding-top: 6vh;
   }
   .rule101 {
-    margin-left: 0%;
-    margin-right: 0%;
+    margin-left: 1%;
+    margin-right: 1%;
     padding-top: 1%;
     padding-bottom: 1%;
-    font-size: 0.9em;
+    font-size: 0.8em;
     overflow: scroll;
 }
 
