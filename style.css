@@ -56,16 +56,15 @@ body {
 }
 
 .coat-of-arms {
-  height:5vw;
-  width:5vw;
-  min-width:6vh;
-  min-height:6vh;
+  height:128px;
+  width:128px;
+/*  min-width:6vh;
+  min-height:6vh;*/
   max-width:128px;
   max-height:128px;
   z-index:9999;
-  position:absolute;
+  position:fixed;
   right:0%;
-  top:0%;
 }
 
 .rule101 {
