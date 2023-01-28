@@ -50,7 +50,7 @@ body {
 }
 
 /* Add a color to the active/current link */
-.home .home, .glossary .glossary, .play .play, .calendar .calendar, .rules .rules, .judgments .judgments, .archives .archives {
+.home .home, .glossary .glossary, .play .play, .calendar .calendar, .rules .rules, .judgments .judgments, .archives .archives, .join .join {
   background-color: #E52B50;
   color: white;
 }
