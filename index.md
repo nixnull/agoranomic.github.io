@@ -1,3 +1,4 @@
+<div id="Welcome" class="content">
 <div class="rule101" align="center">
 <pre>
 Rule 101
@@ -52,3 +53,4 @@ learn, and all voices are appreciated in all conversations.</p>
 <p>History aside, Agora is a game, and we try to have fun together. It’s
 also a warm and supportive community. If this sounds like
 your idea of a good time, please come join us!</p>
+</div>
