@@ -1,4 +1,5 @@
-<pre text-align="center">
+<div class="rule101" align="center">
+<pre>
 Rule 101
 The Game of Agora
 
@@ -9,6 +10,7 @@ won, but the game never ends.
       
 Please treat Agora Right Good Forever.
 </pre>
+</div>
 
 <div class="col-content" style="padding-left:3%; padding-right:3%">
 <h2 id="welcome-to-agora">Welcome to Agora!</h2>
