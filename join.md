@@ -34,6 +34,6 @@
 
 <p><b>Read up on the game.</b> Take some time to start reading through <a href="ruleset">the rules</a>. Get familiar with some quirks of Agoran language in <a href="glossary">the glossary</a>.</p> And if you have any questions...
 
-<p><b>Join the chatroom.</b> Most players are available via the chatroom. While the Discord server has several channels, and the most features, we have bots that connect one of its channels to the Matrix and IRC servers, so you can communicate with anyone from your preferred platform. This is the best way to get your questions answered and get to know other players.
+<p><b>Join the chatroom.</b> Most players are available via the chatroom. While the Discord server has several channels, and the most features, we have bots that connect one of its channels to the Matrix and IRC servers, so you can communicate with anyone from your preferred platform. This is the best way to get your questions answered and get to know other players.</p>
 
 </div>
