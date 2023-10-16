@@ -1,3 +1,8 @@
+---
+title: glossary
+layout: default
+---
+
 <div id="Welcome" class="content">
 <div class="col-content" style="padding-left:3%; padding-right:3%">
 <style>
@@ -5,7 +10,7 @@ h3 {
     text-align:left
 }
 </style>
-<h1>Glossary</h>
+<h1>Glossary</h1>
 
 <h2>Agora-isms</h2>
 

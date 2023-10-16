@@ -1,3 +1,8 @@
+---
+title: calendar
+layout: default
+---
+
 <div class="content">
 <h1>Calendar</h1>
 <p align="center">A list of scheduled Agoran events, such as holidays and birthdays.</p>

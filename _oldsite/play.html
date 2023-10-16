@@ -1,3 +1,8 @@
+---
+title: play
+layout: default
+---
+
 <div id="Welcome" class="content">
 <div class="col-content" style="padding-left:3%; padding-right:3%">
 <h2>First Notes</h2>

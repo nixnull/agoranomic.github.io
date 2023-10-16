@@ -1,3 +1,8 @@
+---
+title: join
+layout: default
+---
+
 <div id="Welcome" class="content">
 <h1>Joining Agora</h1>
 <div class="col-content" style="padding-left:3%; padding-right:3%">

@@ -1,3 +1,8 @@
+---
+title: home
+layout: default
+---
+
 <div id="Welcome" class="content">
 <div class="rule101" align="center">
 <pre>
