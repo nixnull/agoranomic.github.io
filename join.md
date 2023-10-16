@@ -1,40 +1,8 @@
-<!DOCTYPE html>
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Join | Agora Nomic</title>
-<link rel="icon" type="image/png" href="resources/coat_of_arms.png"/>
-<link rel="stylesheet" type="text/css" href="resources/style.css" media="screen" />
-<body class="join">
+---
+title: join
+layout: default
+---
 
-<div class="nvbr desktop">
-<a class="home" href="index.html">Home</a>
-<a class="join" href="join.html">Join</a>
-<a class="play" href="play.html">How To Play</a>
-<a class="rules" href="rules.html">Rules</a>
-<a class="judgments" href="judgments.html">Judgments</a>
-<a class="glossary" href="glossary.html">Glossary</a>
-<a class="calendar" href="calendar.html">Calendar</a>
-<a class="archives" href="archives.html">Archives</a>
-</div>
-<div class="nvbr mobile">
-<div class="dropdown">
-<center><button class="dropbtn">Menu</br>☰</button></center>
-<div class="dropdown-content">
-<a class="home" href="index.html">Home</a>
-<a class="join" href="join.html">Join</a>
-<a class="play" href="play.html">How to Play</a>
-<a class="rules" href="rules.html">Rules</a>
-<a class="judgments" href="judgments.html">Judgments</a>
-<a class="glossary" href="glossary.html">Glossary</a>
-<a class="calendar" href="calendar.html">Calendar</a>
-<a class="archives" href="archives.html">Archives</a>
-</div>
-</div>
-</div>
-
-<div class="nvpad"></div>
-
-<div class="container">
 <div id="Welcome" class="content">
 <h1>Joining Agora</h1>
 <div class="col-content" style="padding-left:3%; padding-right:3%">
@@ -71,19 +39,6 @@
 
 <p><b>Read up on the game.</b> Take some time to start reading through <a href="ruleset">the rules</a>. Get familiar with some quirks of Agoran language in <a href="glossary">the glossary</a>.</p> And if you have any questions...
 
-<p><b>Join the chatroom.</b> Most players are available via the chatroom. While the Discord server has several channels, and the most features, we have bots that connect one of its channels to the Matrix and IRC servers, so you can communicate with anyone from your preferred platform. This is the best way to get your questions answered and get to know other players.
+<p><b>Join the chatroom.</b> Most players are available via the chatroom. While the Discord server has several channels, and the most features, we have bots that connect one of its channels to the Matrix and IRC servers, so you can communicate with anyone from your preferred platform. This is the best way to get your questions answered and get to know other players.</p>
 
 </div>
-</div>
-
-<div class="chats">
-<h3>Chat With Us</h3>
-<p align="center">All three are connected so just choose your favorite!</p>
-<a href="https://discord.gg/tz2u6m7"><button position="relative" class="button">Discord</button></a>
-<a href="https://matrix.to/#/%23agoranomiccommunity%3Amozilla.org?via=mozilla.org&via=matrix.org"><button position="relative" class="button">Matrix</button></a>
-<a href="irc:irc.libera.chat/##nomic"><button position="relative" class="button">IRC</button></a>
-<a href="https://web.libera.chat/##nomic"><button position="relative" class="button">IRC (Web)</button></a>
-</div>
-</div>
-</body>
-</html>

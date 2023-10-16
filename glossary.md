@@ -1,42 +1,8 @@
-<!DOCTYPE html>
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Glossary | Agora Nomic</title>
-<link rel="icon" type="image/png" href="resources/coat_of_arms.png"/>
-<link rel="stylesheet" type="text/css" href="resources/style.css" media="screen" />
-<body class="glossary">
+---
+title: glossary
+layout: default
+---
 
-<div class="nvbr desktop">
-<a class="home" href="index.html">Home</a>
-<a class="join" href="join.html">Join</a>
-<a class="play" href="play.html">How To Play</a>
-<a class="rules" href="rules.html">Rules</a>
-<a class="judgments" href="judgments.html">Judgments</a>
-<a class="glossary" href="glossary.html">Glossary</a>
-<a class="calendar" href="calendar.html">Calendar</a>
-<a class="archives" href="archives.html">Archives</a>
-</div>
-<div class="nvbr mobile">
-<div class="dropdown">
-<center><button class="dropbtn">Menu</br>☰</button></center>
-<div class="dropdown-content">
-<a class="home" href="index.html">Home</a>
-<a class="join" href="join.html">Join</a>
-<a class="play" href="play.html">How to Play</a>
-<a class="rules" href="rules.html">Rules</a>
-<a class="judgments" href="judgments.html">Judgments</a>
-<a class="glossary" href="glossary.html">Glossary</a>
-<a class="calendar" href="calendar.html">Calendar</a>
-<a class="archives" href="archives.html">Archives</a>
-</div>
-</div>
-</div>
-
-<img class="coat-of-arms" src="coat_of_arms.png" align="right">
-
-<div class="nvpad"></div>
-
-<div class="container">
 <div id="Welcome" class="content">
 <div class="col-content" style="padding-left:3%; padding-right:3%">
 <style>
@@ -44,7 +10,7 @@ h3 {
     text-align:left
 }
 </style>
-<h1>Glossary</h>
+<h1>Glossary</h1>
 
 <h2>Agora-isms</h2>
 
@@ -126,15 +92,3 @@ This time to the Public Forum. Usually used when someone first sent a message to
 
 </div>
 </div>
-
-<div class="chats">
-<h3>Chat With Us</h3>
-<p align="center">All three are connected so just choose your favorite!</p>
-<a href="https://discord.gg/tz2u6m7"><button position="relative" class="button">Discord</button></a>
-<a href="https://matrix.to/#/%23agoranomiccommunity%3Amozilla.org?via=mozilla.org&via=matrix.org"><button position="relative" class="button">Matrix</button></a>
-<a href="irc:irc.libera.chat/##nomic"><button position="relative" class="button">IRC</button></a>
-<a href="https://web.libera.chat/##nomic"><button position="relative" class="button">IRC (Web)</button></a>
-</div>
-</div>
-</body>
-</html>
