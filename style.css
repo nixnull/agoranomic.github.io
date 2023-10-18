@@ -137,6 +137,33 @@ p {
   width: 100%;
 }
 
+
+.button:hover {
+  background-color: #E52B50;
+  color: white;
+}
+  
+/* Written for the herald's pages, fix if it breaks some other table */
+
+table, td, th {
+  border: 0px solid;
+}
+
+.ttitle {
+    color: #E52B50;
+    font-weight: bold;
+}
+
+table {
+  margin: auto;
+  padding-right: 14em;
+}
+
+table tr {
+    background-color: lightgrey;
+    height: 3vh;
+}
+
 /* Adjust elements to small screens */
 @media screen and (max-width:73em) {
   .chats {
@@ -185,13 +212,7 @@ p {
     height:64px;
     width:64px;
   }
-}
-
-.button:hover {
-  background-color: #E52B50;
-  color: white;
-}
-  
-table, th, td {
-  border: 1px solid;
+  table {
+    padding: 1em;
+  }
 }
