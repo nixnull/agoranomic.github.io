@@ -109,6 +109,7 @@ embed {
 p {
   max-width: 72ch;
   margin: auto;
+  margin-bottom: 1em;
 }
 
 .chats {
