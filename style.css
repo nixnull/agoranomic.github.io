@@ -165,6 +165,13 @@ table tr {
     height: 3vh;
 }
 
+blockquote, pre {
+  max-width: 66ch;
+  padding-left: 1ch;
+  padding-right: 1ch;
+  background: lightgrey;
+}
+
 /* Adjust elements to small screens */
 @media screen and (max-width:73em) {
   .chats {
