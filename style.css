@@ -103,7 +103,12 @@ embed {
 
 .content {
   margin: auto;
+  padding-right: 14em;
+}
+
+p {
   max-width: 72ch;
+  margin: auto;
 }
 
 .chats {
@@ -187,3 +192,6 @@ embed {
   color: white;
 }
   
+table, th, td {
+  border: 1px solid;
+}
