@@ -68,6 +68,10 @@ body {
   color: #B31837;
 }
 
+.rule101 pre {
+  background: none;
+}
+
 h1 {
     color: #E52B50;
     text-align: center;
@@ -170,6 +174,7 @@ blockquote, pre {
   padding-left: 1ch;
   padding-right: 1ch;
   background: lightgrey;
+  margin: auto;
 }
 
 /* Adjust elements to small screens */
