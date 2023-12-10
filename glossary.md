@@ -30,7 +30,7 @@ A way to win the game or gain something that takes advantage of an unintended co
 
 <h3>Spivak Pronouns</h3>
 
-Agora uses a type of neutral pronoun called Spivak for all players. This is simply e/em/eir.
+Agora uses a type of singular neutral pronoun called Spivak for all players. This is simply e/em/eir.
 
 <h2>Abbreviations</h2>
 
@@ -49,6 +49,12 @@ Agora Official AKA agora-official@agoranomic.org AKA OFF
 <h3>AIAN</h3>
 
 Agora Is A Nomic, Rule 1698. This rule prevents Agora from reaching a state where the rules cannot be changed by any mechanism.
+
+<h3>Cantus Cygneus</h3>
+
+A document a player submits outlining eir grievances with the game or community of Agora. Submitting such a document leads to a player being deregistered by Writ of FAGE.
+
+The name is latin for "Swan Song", which is a metaphor for a final gesture or attempt.
 
 <h3>CFJ</h3>
 
@@ -89,6 +95,10 @@ Short Logical Ruleset. Just the rules, with minimal annotation.
 <h3>TTttPF</h3>
 
 This time to the Public Forum. Usually used when someone first sent a message to Agora Discussion. If they quote that message and say this in Agora Business (or Agora Official) it means they take those actions.
+
+<h3>Writ of FAGE</h3>
+
+How the Registrar deregisters a player that has submitted a Cantus Cygneus. The name is a spoonerism/pun on "fit of rage".
 
 </div>
 </div>
