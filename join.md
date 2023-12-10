@@ -18,14 +18,13 @@ layout: default
     <li><a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business">Agora-Business</a></li>
     <li><a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-discussion">Agora-Discussion</a></li>
     <li><a href="https://agoranomic.groups.io/g/main/join">Gio</a></li>
-    <li><a href="https://listserver.tue.nl/mailman/listinfo/agora">Tue</a></li>
 </ul>
 
 <p>After submitting a subscription to each one, you should receive an email asking you to confirm your subscription. For Gio there may also be a delay because subscriptions must be confirmed by a moderator.<p>
 
-<p>Technically, all official actions can be taken on Agora-Official, Agora-Business, Gio, and Tue. In practice, these lists serve different purposes. Agora-Official should only be used if you are an officer who is sending official information related to your office. Agora-Business should be used for all other game actions, including registering. Gio and Tue should be used if the others are not working; they are also ocassionally used to attempt to sneak things by players who are not registered or paying attention to them.</p>
+<p>Agora-Official is generally only used by Officers to send Reports about the state of the game. Agora-Business is what is used for 99% of game actions, including registering. Gio is a backup, usually only used if the others are down; sometimes players try to sneak actions through on them, to see if anyone is paying attention.</p>
 
-<p>Once you have confirmed your subscription to all five mailing lists, and configured your email as you'd like, you are free to join and start playing. To join, send a message to agora-business@agoranomic.org. In the message, indicate your intent to register and your preferred name. As soon as that message is received, you're a player and can immediately start playing.</p>
+<p>Once you have confirmed your subscription to all four mailing lists, and configured your email as you'd like, you are free to join and start playing. To join, send a message to agora-business@agoranomic.org. In the message, indicate your intent to register and your preferred name. As soon as that message is received, you're a player and can immediately start playing.</p>
 
 <h2>After Joining: Tips & Tricks</h2>
 
@@ -33,11 +32,13 @@ layout: default
 
 <p><b>Consider using an email client</b> like Thunderbird, Outlook, or Apple Mail. Web interfaces for email, like gmail's, will often mess with plaintext formatting. Since Agora uses a lot of plaintext formatting (such as tables and charts made with spaces and tabs) preserving formatting is important. These email clients tend to do a better job at it.</p>
 
-<p><b>Learn mailing list ettiquette.</b> When replying to a message, put your reply below/after the relevant quote from the original message. If you're replying to a long message, cut out the unnecessary bits. This makes your reply much more readable to other players.</p>
+<p><b>Learn mailing list ettiquette.</b> When replying to a message, put your reply below/after the relevant quote from the original message. If you're replying to a long message, cut out the unnecessary bits. This makes your reply much more readable to other players. If you're using an email client as mentioned above, you can quote only the relevant part of the message by highlighting it before hitting reply.</p>
 
-<p><b>Double-check before you send.</b> Make sure you're sending to the right mailing list. Agora-Discussion is not a channel you can take actions in, so messages accidentally sent there are ineffective. Also keep in mind that the mailing lists are meticulously archived; what you say there will always be there, and people may come across it again. Don't share anything you're not comfortable making public, and try to make sure you're saying the best version of what you want to say, not something you might regret or disapprove of later.
+<p><b>Double-check before you send.</b> Make sure you're sending to the right mailing list. Replies default to Agora-Discussion, but you can't take actions there; you will need to change it to Agora-Business if you're taking a game action. Also keep in mind that the mailing lists are meticulously archived; what you say there will always be there, and people may come across it again. Don't share anything you're not comfortable making public, and try to make sure you're saying the best version of what you want to say, not something you might regret or disapprove of later.</p>
 
-<p><b>Read up on the game.</b> Take some time to start reading through <a href="ruleset">the rules</a>. Get familiar with some quirks of Agoran language in <a href="glossary">the glossary</a>.</p> And if you have any questions...
+<p><b>Read up on the game.</b> Take some time to start reading through <a href="ruleset">the rules</a>. Get familiar with some quirks of Agoran language in <a href="glossary">the glossary</a>.</p>
+
+</p> And if you have any questions...</p>
 
 <p><b>Join the chatroom.</b> Most players are available via the chatroom. While the Discord server has several channels, and the most features, we have bots that connect one of its channels to the Matrix and IRC servers, so you can communicate with anyone from your preferred platform. This is the best way to get your questions answered and get to know other players.</p>
 
