@@ -50,7 +50,7 @@ Agora Official AKA agora-official@agoranomic.org AKA OFF
 
 Agora Is A Nomic, Rule 1698. This rule prevents Agora from reaching a state where the rules cannot be changed by any mechanism.
 
-<h3>Cantus Cygneus</h3>
+<h3>CC / Cantus Cygneus</h3>
 
 A document a player submits outlining eir grievances with the game or community of Agora. Submitting such a document leads to a player being deregistered by Writ of FAGE.
 
@@ -82,7 +82,13 @@ Mother, May I? This refers to the rules that give special meaning to phrases lik
 
 <h3>NttPF</h3>
 
-Not to the Public Forum. Usually used when a player sends a message that looks like it's supposed to be an action, but they sent it to Agora-Discussion and so it is ineffective.
+"Not to the Public Forum." If a player accidentally submits an action to Agora-Discussion, another player may reply with this to let em know. It means the action was not effective due to being sent to the wrong list.
+
+A player may use "TTttPF", defined below, to resubmit the message.
+
+<h3>RTRW</h3>
+
+Read the Ruleset Week. A rule-defined week where players are encouraged to read the rules, and the Rulekeepor is encouraged to run some sort of activity related to the rules. The goal is to make sure the rules are being proof-read.
 
 <h3>RWO</h3>
 
@@ -94,7 +100,7 @@ Short Logical Ruleset. Just the rules, with minimal annotation.
 
 <h3>TTttPF</h3>
 
-This time to the Public Forum. Usually used when someone first sent a message to Agora Discussion. If they quote that message and say this in Agora Business (or Agora Official) it means they take those actions.
+"This time to the Public Forum." If a player accidentally sent an action to Agora-Discussion, e might reply on Agora-Business, quote the message, and type this to indicate that is resubmitting the message correctly.
 
 <h3>Writ of FAGE</h3>
 
