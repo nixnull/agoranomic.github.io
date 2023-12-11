@@ -1,32 +1,32 @@
 ---
-title: join
+title: becoming agoran
 layout: default
 ---
 
 <div id="Welcome" class="content">
-<h1>Joining Agora</h1>
+<h1>Becoming Agoran</h1>
 <div class="col-content" style="padding-left:3%; padding-right:3%">
 <h2>Intro to Agora</h2>
 
 <p>This is a guide for anyone who is curious about playing Agora. It is not at all exhaustive, because Agora is complex and changes frequently. It will cover everything from what you should (and shouldn't) do before playing, how to join, and how some of the most common gameplay actions are done (like voting and proposing).
 
 <h2>The Rules</h2>
-<p>Unlike most games, I do not recommend trying to read all of the rules before you start playing; most players don't. The rules are long, technical, and full of a lot of Agora-specific terminology. It's also very difficult at first to tell which rules are important and which aren't.
+<p>Don't worry about reading the full ruleset right now. Instead, focus on getting the basics down in this guide, and then skim the rules as needed. Once you have a good handle on the basics, feel free to go back and re-read the whole thing.
 
-Instead, I recommend that you jump straight in with this guide, and read the rules as needed. When you come across something you're not familiar with, search for it in the rules and read the rules it comes up in.
+<h2>The Mailing Lists</h2>
+<p>Agora Nomic is played via mailing lists. You sign up for each mailing list, and when someone sends a message to them, you receive a copy.<p>
 
-Once you've got a grip on the basics, feel free to spend some time reading the whole thing. But don't fret over it for now.
+<p>You probably don't want Agora to send email to your inbox, because it will be a lot. One option is to set up filters. For example, <a href="https://support.google.com/mail/answer/6579?hl=en">here's gmail's filter instructions</a>. You can also make an email account just for Agora, as some players do.</p>
 
-<h2> The Mailing Lists</h2>
-<p>Agora Nomic is played via email. To join, you sign up for the mailing lists. When anyone sends an email to one of the lists, everyone signed up receives it.</p>
+<p>Agora has 4 mailing lists, which are explained below. You should sign up for all 4:<p>
 
-<p>Agora has 4 email lists. These collectively make "the fora" as most players call it. Three of these lists are "public" forums, that's where the gameplay actually happens. The fourth one is a "discussion" forum, where people talk about the game.</p>
+* <em><a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business">Agora-Business</a></em> - You send messages here to do stuff.
 
-<p>The three public fora are <a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-official">Agora-Official</a>, <a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business">Agora-Business</a>, and <a href="https://agoranomic.groups.io/g/main/join">Gio</a>. Business is where most gameplay happens, and where you will send all of your game messages at first. Official is where Reports are sent, which are summaries of what's currently happening in the game. Gio is a backup list, used when the other two stop working (which happens sometimes). Rarely, players might send messages to Gio as a way to "sneak" past people that might not be subscribed to it.</p>
+* <em><a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-official">Agora-Official</a></em> - Officers send Reports here. That's where you can read summaries of what's currently happening. If you're not an officer sending a report, you shouldn't be sending a message here.
 
-<p>The discussion forum is <a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-discussion">Agora-Discussion</a>. Messages sent to this forum are never game actions, so people usually use it to discuss the game. By default when you reply to a message sent to a public forum, your reply will be sent to Agora-Discussion. If you want to take an action, you need to change the "To" to Agora-Business.</p>
+* <em><a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-discussion">Agora-Discussion</a></em> - Players discuss the game and respond to actions here. No actions can be taken here. Note that by default, when you reply to the other two lists, the "To:" will be here. If you want to take an action, you need to change it to Agora-Business.
 
-<p>Because many emails might be sent in a single day, you should consider either making an email account just for Agora, or setting up filters to send all Agora messages to a folder. Your email provider will have instructions on how to do that. For example, <a href="https://support.google.com/mail/answer/6579?hl=en">here's gmail's filter instructions</a>.</p>
+* <em><a href="https://agoranomic.groups.io/g/main/join">Gio</a></em> - This is the backup list. Sometimes the other lists stop working for a while, and gameplay continues here.
 
 <p>Once you've subscribed to each mailing list, and confirmed your subscriptions in your email, you will start receving messages as they are sent. You will also now be able to send messages. Now it's time to register.</p>
 
@@ -38,15 +38,13 @@ Once you've got a grip on the basics, feel free to spend some time reading the w
 
 <h2>Your first actions</h2>
 
-<p>Once you register, you can immediately start taking actions. In fact, you can take actions in the same message you register. Most actions do not have any limit on when or how often you can do them. Most actions are done "by announcement", which basically means you just say you do them.</p>
-
-<p>For example, one of the very first actions you might do is give yourself a Welcome Package (this is one of the few you can only do once). This item will give you some starting resources. A message where you do that might look like this:</p>
+<p>Once you register, you can immediately start taking actions. In fact, you can take actions in the same message you register. Most actions are done "by announcement", which means you just say you're doing it, and it is done. The very first such action you will want to do is grant yourself a welcome package, which gives you starting resources. You do so with a message (to Agora-Business) like this:</p>
 
 <pre>I grant myself a Welcome Package.</pre>
 
-<p>You can get an idea of more actions you can do in this manner by searching the rules for "by announcement". Read carefully for other restrictions the action might have.</p>
+<p>Search the rules for "by announcement" to see more actions you can do this way. Some of them may have other restrictions as well, so read carefully.</p>
 
-<p>Other actions are done "with notice", "without objection", or "with N Agoran Consent", among other methods. These are called "tabled actions", where you first need to announce you plan to do them, and then wait (usually 4 days, but it may vary by action) before you can do them. An example is winning by apathy. To do so you first send a message like this:</p>
+<p>Some other actions are done "with notice", "without objection", or "with N Agoran Consent", among other methods. These are called "tabled actions", where you first need to announce you plan to do them, and then wait (usually 4 days, but it may vary by action) before you can do them. An example is declaring apathy. To do so you first send a message like this:</p>
 
 <pre>I intend to declare apathy without objection, specifying myself.</pre>
 
@@ -54,31 +52,36 @@ Once you've got a grip on the basics, feel free to spend some time reading the w
 
 <pre>I declare apathy, specifying myself.</pre>
 
-<h2>Submitting Proposals and Voting</h2>
+<p>If nobody objected, then the action was successful.</p>
 
-<p>Likely, proposals and voting are a big part of why you're playing a nomic. Voting is fairly straightforward. You cannot vote on proposals that were already being voted on before you joined. But when you see proposals "distributed" after you join, you may vote on them. The valid votes are FOR, AGAINST, PRESENT, endorse [player], and conditional votes. A conditional vote can be any reasonable condition, that can be interpreted at the time that votes are resolved. You can also withdrawn or change votes, until the voting period ends. If you're voting on Proposals 12345-12347, your message might look like:</p>
+<h2>Voting</h2>
 
-<pre>On proposal 12345, I vote FOR. On proposal 12346, I vote AGAINST. On proposal 123457 I endorse the Assessor.</pre>
+<p>Voting is fairly straightforward. You cannot vote on proposals that were already being voted on before you joined. But when you see proposals "distributed" after you join, you may vote on them. The valid votes:</p>
 
-<p>Or more simply:</p>
+* FOR or AGAINST - these are pretty self-explanatory
 
-<pre>
->P12345
+* PRESENT - doesn't count FOR/AGAINST, but does count for quorum (the minimum number of players that need to vote on something)
+  
+* ENDORSE X - you vote the same way as X, which can be a player or an officer.
+  
+* Conditionally - Any conditional statement that could be interpreted as a vote at the time of resolution. If it is too difficult to calculate, it will be thrown out.
 
-FOR
-
->P12346
-AGAINST
-
->P12347
-ENDORSE Assessor
-</pre>
-</div>
+<h2>Proposals</h2>
 
 <p>Any player can submit a proposal at any time, but I strongly recommend you start with a "proto". A proto is a draft of a proposal, submitted to Agora-Discussion with a title like "[Proto] Name Proposal Here". Other players will read your proto and provide feedback. Even the most experienced players usually submit 1 or 2 (or more) protos before finally submitting a proposal.</p>
 
-<p>A proposal has 5 parts: The Title, "Adoption Index" (AI), Author, Co-Authors, and Text. The Title and Author are exactly what you might expect. The Co-Authors are an optional list of people that helped, you can really include anyone but it's polite to include people that gave supportive feedback. "Adoption Index" is the tricky part. Rules have Power, which determines their importance; higher power rules can contradict lower power ones. A proposal's AI needs to be as high as the highest power Rule it is adding, removing, or amending. This will also effect how many votes it needs to pass, where higher power means more votes in favor.</p>
+<p>A proposal has 5 parts:
 
-<p>Text is of course the meet of a proposal. Proposals can add, amend, or remove any number of rules at once. They can also change other parts of the game, like granting a player assets. Because of this, a proposal can be very simple or very complex.</p>
+* Title - anything you want to call it
 
-<p>For examples, take a look at the most recently distributed proposals.</p>
+* Author - you, or whoever submitted it
+
+* Coauthors - an optional list of anybody you want to include, usually people that gave supportive feedback
+
+* Adoption Index (AI) - this effects how many votes FOR the proposal needs, and what the proposal is able to change. See "Rule Power and Precedence" below.
+
+* Text - the actual changes of the proposal. A single proposal can amend, enact, or remove any number of rules. It can also change other things, like granting players assets.
+
+<h2>Rule Power and Precedence</h2>
+
+<p>When you start reading the rules more thoroughly, or making proposals, you will notice something called "power". "Power" is how we "break ties" in rules. If two rules contradict, the higher power rule takes precedent. You will notice that the high power rules tend to be very important parts of the game, and low power ones tend to be less important. For a proposal to change a rule, its AI has to be as high as that rule's Power, thus changing high power rules is harder than low power rules.</p>
