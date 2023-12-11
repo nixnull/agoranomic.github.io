@@ -20,13 +20,15 @@ layout: default
 
 <p>Agora has 4 mailing lists, which are explained below. You should sign up for all 4:<p>
 
-* <em><a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business">Agora-Business</a></em> - You send messages here to do stuff.
+<ul>
+<li><em><a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business">Agora-Business</a></em> - You send messages here to do stuff.</li>
 
-* <em><a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-official">Agora-Official</a></em> - Officers send Reports here. That's where you can read summaries of what's currently happening. If you're not an officer sending a report, you shouldn't be sending a message here.
+<li><em><a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-official">Agora-Official</a></em> - Officers send Reports here. That's where you can read summaries of what's currently happening. If you're not an officer sending a report, you shouldn't be sending a message here.</li>
 
-* <em><a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-discussion">Agora-Discussion</a></em> - Players discuss the game and respond to actions here. No actions can be taken here. Note that by default, when you reply to the other two lists, the "To:" will be here. If you want to take an action, you need to change it to Agora-Business.
+<li><em><a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-discussion">Agora-Discussion</a></em> - Players discuss the game and respond to actions here. No actions can be taken here. Note that by default, when you reply to the other two lists, the "To:" will be here. If you want to take an action, you need to change it to Agora-Business.</li>
 
-* <em><a href="https://agoranomic.groups.io/g/main/join">Gio</a></em> - This is the backup list. Sometimes the other lists stop working for a while, and gameplay continues here.
+<li><em><a href="https://agoranomic.groups.io/g/main/join">Gio</a></em> - This is the backup list. Sometimes the other lists stop working for a while, and gameplay continues here.</li>
+</ul>
 
 <p>Once you've subscribed to each mailing list, and confirmed your subscriptions in your email, you will start receving messages as they are sent. You will also now be able to send messages. Now it's time to register.</p>
 
@@ -58,13 +60,15 @@ layout: default
 
 <p>Voting is fairly straightforward. You cannot vote on proposals that were already being voted on before you joined. But when you see proposals "distributed" after you join, you may vote on them. The valid votes:</p>
 
-* FOR or AGAINST - these are pretty self-explanatory
+<ul>
+<li>FOR or AGAINST - these are pretty self-explanatory</li>
 
-* PRESENT - doesn't count FOR/AGAINST, but does count for quorum (the minimum number of players that need to vote on something)
+<li>PRESENT - doesn't count FOR/AGAINST, but does count for quorum (the minimum number of players that need to vote on something)</li>
   
-* ENDORSE X - you vote the same way as X, which can be a player or an officer.
-  
-* Conditionally - Any conditional statement that could be interpreted as a vote at the time of resolution. If it is too difficult to calculate, it will be thrown out.
+<li>ENDORSE X - you vote the same way as X, which can be a player or an officer.</li>
+
+<li>Conditionally - Any conditional statement that could be interpreted as a vote at the time of resolution. If it is too difficult to calculate, it will be thrown out.</li>
+</ul>
 
 <h2>Proposals</h2>
 
@@ -72,15 +76,17 @@ layout: default
 
 <p>A proposal has 5 parts:
 
-* Title - anything you want to call it
+<ul>
+<li>Title - anything you want to call it</li>
 
-* Author - you, or whoever submitted it
+<li>Author - you, or whoever submitted it</li>
 
-* Coauthors - an optional list of anybody you want to include, usually people that gave supportive feedback
+<li>Coauthors - an optional list of anybody you want to include, usually people that gave supportive feedback</li>
 
-* Adoption Index (AI) - this effects how many votes FOR the proposal needs, and what the proposal is able to change. See "Rule Power and Precedence" below.
+<li>Adoption Index (AI) - this effects how many votes FOR the proposal needs, and what the proposal is able to change. See "Rule Power and Precedence" below.</li>
 
-* Text - the actual changes of the proposal. A single proposal can amend, enact, or remove any number of rules. It can also change other things, like granting players assets.
+<li>Text - the actual changes of the proposal. A single proposal can amend, enact, or remove any number of rules. It can also change other things, like granting players assets.</li>
+</ul>
 
 <h2>Rule Power and Precedence</h2>
 
