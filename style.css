@@ -103,6 +103,8 @@ embed {
 .container {
   position:relative;
   width: 100%;
+  max-width: 102ch;
+  margin: auto;
 }
 
 .content {
@@ -194,6 +196,7 @@ blockquote, pre {
   }
   .content {
     width: 100%;
+    max-width: 100ch;
   }
   .mobile {
     display: inline-block;
