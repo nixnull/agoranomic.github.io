@@ -196,7 +196,7 @@ blockquote, pre {
   }
   .content {
     width: 100%;
-    max-width: 100ch;
+    max-width: 102ch;
   }
   .mobile {
     display: inline-block;
