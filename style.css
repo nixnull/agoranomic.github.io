@@ -64,7 +64,7 @@ body {
 }
 
 .rule101 {
-  font-size: 16px;
+  font-size: 1.2em;
   color: #B31837;
 }
 
@@ -220,7 +220,6 @@ blockquote, pre {
     margin-right: 1%;
     padding-top: 1%;
     padding-bottom: 1%;
-    font-size: 0.8em;
     overflow: scroll;
   }
   .coat-of-arms {
